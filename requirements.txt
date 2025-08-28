@@ -1,1 +1,1 @@
-replicate>=1.1.0b1,<2.0.0a1
+replicate==2.0.0a22
