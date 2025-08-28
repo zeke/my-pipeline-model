@@ -11,3 +11,5 @@ cd my-pipeline-model
 script/build
 script/build
 ```
+
+Note you might need to go digging for a generated requirements.txt file in the .cog directory, and set `replicate==2.0.0a22` manually for this to work.
