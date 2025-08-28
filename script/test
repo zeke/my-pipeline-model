@@ -1,3 +1,5 @@
 #!/usr/bin/env bash
 
+set -x
+
 cog predict --use-replicate-token --x-pipeline -i prompt="a toy panda eating ice cream"
